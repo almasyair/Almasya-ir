@@ -369,6 +369,9 @@
     font-style: italic;
     padding: 100px;
   }
+  .support p{
+    color: #333;
+  }
   section.quote .layar-dalam p {
     display: inline;
     background: url("asset/quote-icon.png") no-repeat;
