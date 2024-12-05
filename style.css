@@ -98,8 +98,8 @@
     border-bottom: none;
   }
   /* pengaturan header */
-  header {
-    background-image: url(background22.jpg);
+  .background {
+    background-image: url(background2.jpg);
     background-size: cover; 
     background-position: center center; 
     background-attachment: fixed; 
@@ -369,7 +369,7 @@
     font-style: italic;
     padding: 100px;
   }
-  .support p{
+  .layar-dalam support p{
     color: #333;
   }
   section.quote .layar-dalam p {
@@ -502,7 +502,7 @@
     height: 70vh;
     width: 100%;
     overflow: hidden;
-    z-index: 4;    
+    z-index: 2;    
   }
 
   .background2 h1{
@@ -622,9 +622,6 @@
         font-size: 10px;
       }
       footer .layar-dalam div a, p{
-        font-size: 10px;
-      }
-      footer .layar-dalam div h5{
         font-size: 10px;
       }
   }
