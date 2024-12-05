@@ -320,6 +320,7 @@
     transform: scale(1.1);
   }
   .support p{
+    color: #333;
     margin-bottom: 50px;
   }
   .support div{
