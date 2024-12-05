@@ -99,10 +99,10 @@
   }
   /* pengaturan header */
   header {
-    background-image: url(foto8.png);
+    background-image: url(foto2.png);
     background-size: cover; 
     background-position: center center; 
-    background-attachment: scroll; 
+    background-attachment: fixed; 
     position: relative;
     height: 100vh;
     width: 100%;
@@ -497,12 +497,12 @@
     background-image: url(foto8.png);
     background-size: cover; 
     background-position: center center; 
-    background-attachment:scroll;
+    background-attachment:initial;
     position: relative;
     height: 70vh;
     width: 100%;
     overflow: hidden;
-    z-index: 2;    
+    z-index: 4;    
   }
 
   .background2 h1{
@@ -550,17 +550,6 @@
     .layar-dalam {
       width: 90%;
     }
-    header {
-    background-image: url(background2.jpg);
-    background-size: cover; 
-    background-position: center center; 
-    background-attachment: fixed; 
-    position: relative;
-    height: 100vh;
-    width: 100%;
-    overflow: hidden;
-    z-index: 2;
-  }
     .wa img{
         width: 20%;
         height: auto;
@@ -633,6 +622,9 @@
         font-size: 10px;
       }
       footer .layar-dalam div a, p{
+        font-size: 10px;
+      }
+      footer .layar-dalam div h5{
         font-size: 10px;
       }
   }
