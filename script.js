@@ -18,19 +18,6 @@ $(document).ready(function () {
     }
 })
 
-
-$(window).resize(function () {
-    var width = $(window).width();
-    if (width > 989) {
-        menu.css("display", "block");
-        //display:block
-    } else {
-        menu.css("display", "none");
-    }
-    klikMenu();
-});
-
-
 $(document).ready(function () {
     var scroll_pos = 0;
     $(document).scroll(function () {
