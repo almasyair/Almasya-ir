@@ -502,8 +502,7 @@
     position: relative;
     height: 70vh;
     width: 100%;
-    overflow: hidden;
-    z-index: 2;    
+    overflow: hidden; 
   }
 
   .background2 h1{
