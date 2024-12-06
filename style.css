@@ -1208,6 +1208,10 @@ footer .layar-dalam .copyright {
   width: 90%;
   margin-bottom: 100px;
 }
+.konten-isi h6{
+  font-size: 20px;
+  margin-bottom: -5px;
+}
 .pimpinan img{
   margin-bottom: -20px;
   width: 30%;
