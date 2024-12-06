@@ -1223,7 +1223,7 @@ footer .layar-dalam .copyright {
     width: 90%;
   }
   div .konten-isi p{
-    font-size: 9px;
+    font-size: 15px;
     color: #333;
   }
   .support p{
@@ -1319,7 +1319,8 @@ footer .layar-dalam .copyright {
       width: 70%;
     }
     .pimpinan img{
-      width: 45%;
+      width: 50%;
       border-radius: 50%;
     }
+  
 }
