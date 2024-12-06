@@ -1212,11 +1212,7 @@ footer .layar-dalam .copyright {
   font-size: 20px;
   margin-bottom: -5px;
 }
-.pimpinan img{
-  margin-bottom: 5px;
-  width: 30%;
-  border-radius: 50%;
-}
+
 
 @media screen and (max-width: 991.98px) {
   .layar-dalam {
@@ -1318,9 +1314,6 @@ footer .layar-dalam .copyright {
     .konten-isi img{
       width: 70%;
     }
-    .pimpinan img{
-      width: 50%;
-      border-radius: 50%;
-    }
+
   
 }
